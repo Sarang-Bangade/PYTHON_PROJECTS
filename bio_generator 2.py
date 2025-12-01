@@ -3,7 +3,7 @@
 import textwrap
 
 name = input("Enter your name").strip()
-profession = input("Enter your profession").strip()
+profession = input("Plz Enter your profession").strip()
 emoji = input("Enter your favourite emoji").strip()
 passion = input("Enter your passion in one line").strip()
 website = input("Enter your website").strip()
