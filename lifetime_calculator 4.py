@@ -28,4 +28,4 @@ while True:
             print("Good Bye and visit next time")
             break
     except :
-        print("Please enter a valid number of age")
+        print("Sorry! plz enter a valid number")
