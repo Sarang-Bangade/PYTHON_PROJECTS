@@ -25,7 +25,7 @@ while True:
         again = input("Would you like to try again? (y/n)").strip().lower()
 
         if again != 'y':
-            print("Good Bye")
+            print("Good Bye and visit next time")
             break
     except :
         print("Please enter a valid number of age")
