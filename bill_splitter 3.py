@@ -15,7 +15,7 @@ num_people = int( input ("How many people are there in the group?"))
 names = []
 
 for i in range(num_people):
-    name = input(f"enter the name of person #{i+1}").strip()
+    name = input(f"Enter the name of person #{i+1}").strip()
     names.append(name)
 
 total_bill = get_float("Enter the bill amount in numbers only")
