@@ -17,7 +17,7 @@ while True:
         age = float(input("Enter your age in Years"))
         days, hours, minutes = calcualte_minutes(age)
 
-        print("\n You are approx:")
+        print("\n You are approximately:")
         print(f"  - {days} days old")
         print(f"  -  {hours} hours old")
         print(f"  - {minutes} minutes old\n")
