@@ -9,7 +9,7 @@ profession = input("What is your profession ?").strip()
 hobby = input("What is your Hobby ?").strip()
 
 #strip function removes the space fron the both last an the first
-# line of the word but not the betweeen
+# line of the word but not the betweeen them
 
 intro_message = (
     f"Hello! my name is {name}, I'm {age} years old and live in {city}"
