@@ -12,7 +12,7 @@ hobby = input("What is your Hobby ?").strip()
 # line of the word but not the betweeen them . 
 
 intro_message = (
-    f"Hello! my name is {name}, I'm {age} years old and live in {city}"
+    f"Hello! my name is " {name} ", I'm {age} years old and live in {city}"
     f"I work as a {profession} and I love enjoying {hobby} in my free time "
     f"Nice to meet you!\n"
 )
