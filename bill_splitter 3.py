@@ -31,7 +31,3 @@ for name in names:
 
 print("\n" + "*" * 40)
 
-
-
-
-
