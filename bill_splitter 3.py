@@ -23,8 +23,8 @@ total_bill = get_float("Enter the bill amount in numbers only")
 share = round(total_bill / num_people, 2 )
 
 print("\n" + "*" * 40)
-print(f"Total bill : {total_bill}")
-print(f"Each person owes{share}")
+print(f"Total bill is : {total_bill}")
+print(f"So Each person owes{share}")
 
 for name in names:
     print(f"{name} owes {share} rupees")
