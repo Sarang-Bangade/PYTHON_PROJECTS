@@ -24,7 +24,7 @@ share = round(total_bill / num_people, 2 )
 
 print("\n" + "*" * 40)
 print(f"Total bill is : {total_bill}")
-print(f"So Each person owes{share}")
+print(f"So Each person owes the share price{share}")
 
 for name in names:
     print(f"{name} owes {share} rupees")
