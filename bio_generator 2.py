@@ -32,7 +32,7 @@ print ("*" * 50)
 print(textwrap.dedent(bio))
 print ("*" * 50)
 
-save = input("Do you want to save this file yes or no ?").lower()
+save = input("Do you want to save this file plz say yes or no ?").lower()
 
 if save =='y':
     filename = f"{name.lower().replace('','_')}_bio.txt"
